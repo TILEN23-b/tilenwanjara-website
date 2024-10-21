@@ -148,3 +148,18 @@ ul li.active a{
 .button a{
     text-decoration: none;
 }
+@media(max-width:768px){
+    ul{
+        display: block;
+        text-align:left;
+        padding: 0;
+}
+    ul li{
+        display: block;
+        margin:0;
+    }
+@media(max-width:480px){
+    hearder{
+        font-size:0.8em
+    
+}
